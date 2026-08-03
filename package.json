@@ -1,0 +1,8 @@
+{
+  "name": "agent",
+  "private": true,
+  "workspaces": [
+    "apps/web",
+    "apps/desktop"
+  ]
+}

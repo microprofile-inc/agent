@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+dist/
+*.egg-info/
+.ruff_cache/
+
+# Node / pnpm
+node_modules/
+
+# Tauri
+apps/desktop/src-tauri/target/
+
+# 前端构建产物
+apps/web/dist/
+
+# 系统
+.DS_Store
+
+# 密钥
+*.key
+.env
+
+# 工具配置
+.oc/
+.gstack/
+
+.oc
